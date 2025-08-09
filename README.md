@@ -30,4 +30,4 @@ The goal of this project was to analyze customer data to guide Mitron Bank in ta
 - **Targeted Marketing Strategies**: Developing marketing strategies that specifically target the identified segments, thereby improving customer acquisition and retention.
 - **Continuous Data Analysis**: To maintain a competitive edge, continual analysis of customer data is recommended to adapt to changing market trends and customer preferences.
 
-These recommendations aimed to provide actionable and data-driven insights to guide Mitron Bank in effectively tailoring their credit card offerings to meet customer needs and market trends. The success of this project was dependent on the ability to present these findings in a manner that was both engaging and convincing to the stakeholders, specifically Mr. Bashnir Rover and his team.
+These recommendations aimed to provide actionable and data-driven insights to guide Mitron Bank in effectively tailoring their credit card offerings to meet customer needs and market trends. The success of this project was dependent on the ability to present these findings in a manner that was both engaging and convincing to the stakeholders.
